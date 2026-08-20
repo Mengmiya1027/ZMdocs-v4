@@ -1,4 +1,5 @@
 // .vitepress/themeConfig.ts
+// @ts-ignore
 import { defineThemeConfig } from 'vitepress-theme-ninc/defineThemeConfig'
 
 export const themeConfig = defineThemeConfig({
@@ -24,6 +25,24 @@ export const themeConfig = defineThemeConfig({
             enable: true,
             text: '<strong style="display: block;width: fit-content;margin: 0 auto;">你好！</strong>这里是ZMdocs的V4版本，记录着两位开发者的一些随笔……' +
                 '<div class="hello-image-wrapper"><img alt="加载不出来还看个🥚……" src="/images/banner/banner-zm.jpg" class="hello-image"></div>'
+        },
+        welcome: {
+            enable: true,
+            text1: "👋🏻 Hi，很高兴认识你！",
+            text2: "本站采用 <strong>VitePress</strong> 搭建",
+            text3: "由<strong>CloudFlare</strong>提供部署与访问",
+            email: "1176537786@qq.com",
+            address: [104.643215, 28.751768],
+            ipLocation: {
+                // 腾讯地图获取IP（不传参自动获取请求端IP）
+                ipApi: 'https://apis.map.qq.com/ws/location/v1/ip?key=CMRBZ-X3DC5-NXBIX-IIJYI-YY2J7-PDBJU',
+                // 根据具体IP查归属地（${ip} 是占位符，会被运行时替换）
+                locationApi: 'https://apis.map.qq.com/ws/location/v1/ip?ip=${ip}&key=CMRBZ-X3DC5-NXBIX-IIJYI-YY2J7-PDBJU'
+            }
+        },
+        countDown: {
+            enable: true,
+            data: { name: "2027春节", date: "2027-02-06"}
         }
     },
     // @ts-ignore
@@ -44,6 +63,12 @@ export const themeConfig = defineThemeConfig({
             { name: 'NES模拟', path: '/pages/nes', shadow: 'var(--main-shadow-purple)', icon: 'icon-game', class: 'purple' },
             { name: '留言板', path: '/pages/comments', shadow: 'var(--main-shadow-blue)', icon: 'icon-chat', class: 'green' }
         ],
+    },
+    aiSummary: {
+        enable: true,
+        provider: 'glm',
+        apiKey: process.env.GLM_API_KEY || '',
+        model: 'glm-4-flash'
     },
     nav: [
         {
@@ -153,8 +178,8 @@ export const themeConfig = defineThemeConfig({
             tip: '数据',
             title: '访问统计',
             desc: '统计信息来自',
-            source: '不蒜子',
-            sourceLink: 'http://busuanzi.ibruce.info/'
+            source: '51la',
+            sourceLink: 'https://v6.51.la/'
         },
         // 信息区域（mapImage 为地图图片，address 为居住地址，items 为信息项）
         info: {

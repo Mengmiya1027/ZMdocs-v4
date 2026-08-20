@@ -47,6 +47,100 @@ index f609f44..86d1904 100644
      let aiSummaryMap = {};
      if (aiSummaryEnable) {
        const { summaries } = await generateAiSummaries(postData, aiSummaryConfig);
+diff --git a/node_modules/vitepress-theme-ninc/src/client/components/Nav.vue b/node_modules/vitepress-theme-ninc/src/client/components/Nav.vue
+index 20ff183..80a8100 100644
+--- a/node_modules/vitepress-theme-ninc/src/client/components/Nav.vue
++++ b/node_modules/vitepress-theme-ninc/src/client/components/Nav.vue
+@@ -162,15 +162,39 @@
+ 
+ <script setup>
+ import { storeToRefs } from 'pinia'
+-import { defineAsyncComponent, onMounted, onUnmounted } from 'vue'
++import { defineAsyncComponent, defineComponent, h, onMounted, onUnmounted } from 'vue'
+ import { mainStore } from '../store'
+ import { smoothScrolling, shufflePost } from '../utils/helper'
+ import ThemeIcon from './ThemeIcon.vue'
++import Modal from './Modal.vue'
+ 
+ // 异步加载 Search 组件：避免 algoliasearch / vue-instantsearch 拖慢首屏
+ // 同时通过 prefetchSearch 在浏览器空闲时和 hover 搜索按钮时主动预加载，
+ // 这样点击搜索按钮时组件通常已就绪，避免弹窗出现后几秒钟空白
+-const Search = defineAsyncComponent(() => import('./Search.vue'))
++const SearchLoading = defineComponent({
++  name: 'SearchLoading',
++  setup() {
++    const store = mainStore()
++    return () =>
++      h(Modal, {
++        show: store.searchShow,
++        title: '全局搜索',
++        titleIcon: 'search',
++        onMaskClick: () => store.changeShowStatus('searchShow'),
++        onModalClose: () => store.changeShowStatus('searchShow'),
++      }, () =>
++        h('div', { class: 'search-loading' }, [
++          h('div', { class: 'search-loading-spinner' }),
++          h('span', null, '搜索组件加载中...')
++        ])
++      )
++  }
++})
++const Search = defineAsyncComponent({
++  loader: () => import('./Search.vue'),
++  loadingComponent: SearchLoading,
++  delay: 200
++})
+ 
+ const router = useRouter()
+ const store = mainStore()
+@@ -803,3 +827,29 @@ const menuBtnLeave = name => {
+   }
+ }
+ </style>
++
++<style lang="scss">
++.search-loading {
++  display: flex;
++  flex-direction: column;
++  align-items: center;
++  justify-content: center;
++  height: 300px;
++  gap: 16px;
++  .search-loading-spinner {
++    width: 32px;
++    height: 32px;
++    border: 3px solid var(--main-card-border);
++    border-top-color: var(--main-color);
++    border-radius: 50%;
++    animation: search-spin 0.8s linear infinite;
++  }
++  span {
++    font-size: 14px;
++    opacity: 0.6;
++  }
++}
++@keyframes search-spin {
++  to { transform: rotate(360deg); }
++}
++</style>
+diff --git a/node_modules/vitepress-theme-ninc/src/client/components/Search.vue b/node_modules/vitepress-theme-ninc/src/client/components/Search.vue
+index 390bd92..af16dd5 100644
+--- a/node_modules/vitepress-theme-ninc/src/client/components/Search.vue
++++ b/node_modules/vitepress-theme-ninc/src/client/components/Search.vue
+@@ -117,9 +117,10 @@ const formatSearchData = (data) => {
+     // 获取数据
+     const url = search?.url;
+     const type = search.type === "lvl1" ? "post" : "content";
+-    const title = search.hierarchy?.lvl1;
+-    const anchor = search.anchor;
+-    const content = search._highlightResult?.content?.value;
++    // 适配 Algolia Crawler 索引结构：优先使用高亮结果，回退到原始字段
++    const title = search._highlightResult?.title?.value || search.hierarchy?.lvl1 || search.title || '';
++    const anchor = search.anchor || null;
++    const content = search._highlightResult?.content?.value || search.content || search._highlightResult?.description?.value || search.description || '';
+     // 生成搜索数据
+     const searchData = { url, type, title, anchor, content };
+     results.push(searchData);
 diff --git a/node_modules/vitepress-theme-ninc/src/client/store/index.ts b/node_modules/vitepress-theme-ninc/src/client/store/index.ts
 index 126c8ab..94ea0f8 100644
 --- a/node_modules/vitepress-theme-ninc/src/client/store/index.ts

@@ -9,7 +9,11 @@ const env = loadEnv('development', process.cwd(), '')
 
 export default defineConfig(
     // 这里可以覆盖 VitePress 的默认配置
-    {},
+    {
+        sitemap: {
+            hostname: 'https://zmdocs-v4.pages.dev' // 务必替换为你的真实域名
+        }
+    },
     // 主题配置（外观、功能等）
     {
         ...themeConfig,

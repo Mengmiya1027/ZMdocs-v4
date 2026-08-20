@@ -126,6 +126,12 @@ export const themeConfig = defineThemeConfig({
             lang: 'zh-CN'
         }
     },
+    search: {
+        enable: true,
+        appId: '4MG75IDV1M',
+        apiKey: '8aea36404320a332eba9f43e4e9948ec',
+        indexName: 'zmdocs_v4_pages_dev_4mg75idv1m_pages'
+    },
     // 站点统计
     tongji: {
         '51la': '3QwAY6dUpg6lP5Gk'

@@ -1,4 +1,6 @@
 {
+  "name": "zmdocs-v4",
+  "version": "Preview1",
   "type": "module",
   "dependencies": {
     "vitepress": "^1.6.4",

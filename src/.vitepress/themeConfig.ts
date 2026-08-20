@@ -4,6 +4,8 @@ import { defineThemeConfig } from 'vitepress-theme-ninc/defineThemeConfig'
 
 export const themeConfig = defineThemeConfig({
     // 站点基本信息
+    since: '2026-08-20',
+    settingButton: true,
     // @ts-ignore
     siteMeta: {
         title: 'ZMdocs', // ← 改成你的博客名
@@ -203,5 +205,69 @@ export const themeConfig = defineThemeConfig({
                 { name: '现在职业', value: '神人哈基米', color: '#dfac46' }
             ]
         }
+    },
+    footer: {
+        social: [
+            { icon: 'email', link: 'mailto:1176537786@qq.com' },
+            { icon: 'github', link: 'https://github.com/SB5133' },
+            { icon: 'qq', link: 'https://qm.qq.com/q/zW39HTlnz2' },
+            { icon: 'rss', link: 'https://zmdocs-v4.pages.dev/rss.xml' }
+        ],
+        badge: [
+            {
+                leftText: 'CopyRight',
+                rightText: 'BY-NC-SA 4.0',
+                color: '#ae3b37',
+                tooltip: '知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议',
+                link: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+                logo: 'creativecommons',
+                style: 'for-the-badge'
+            },
+            {
+                leftText: 'Powered by',
+                rightText: 'VitePress',
+                color: '#42b883',
+                tooltip: '由 VitePress 驱动 | 基于 vitepress-theme-ninc 主题 ',
+                link: 'https://vitepress.dev/',
+                logo: 'vitepress',
+                style: 'for-the-badge'
+            }
+        ],
+        sitemap: [
+            {
+                text: '博客',
+                items: [
+                    { text: '近期文章', link: '/' },
+                    { text: '全部分类', link: '/pages/categories' },
+                    { text: '全部标签', link: '/pages/tags' },
+                    { text: '文章归档', link: '/pages/archives' }
+                ]
+            },
+            {
+                text: '协议',
+                items: [
+                    { text: '隐私政策', link: '/pages/privacy' },
+                    { text: '版权协议', link: '/pages/cc' },
+                    { text: 'Cookies', link: '/pages/cookies' }
+                ]
+            },
+            {
+                text: '友链',
+                items: [
+                    { text: '人机工程局', link: 'https://qm.qq.com/q/zW39HTlnz2' },
+                    { text: 'Wish \'s Mail' , link: 'mailto:3990818268@qq.com' },
+                    { text: 'Wish \'s Github', link: 'https://github.com/Mengmiya1027' }
+                ]
+            },
+            {
+                text: '关于',
+                items: [
+                    { text: '关于本站', link: '/pages/about' },
+                    { text: '友情链接', link: '/pages/friends', newTab: false },
+                    { text: 'GitHub 仓库', link: 'https://github.com/Mengmiya1027/ZMdocs-v4', newTab: true }
+                ]
+            }
+        ]
+        // nes 配置已移至 config.ts 中，通过 fs 读取 games.json 注入
     }
 })

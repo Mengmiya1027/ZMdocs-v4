@@ -4,11 +4,1196 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview7&#10;搜索准备集成">
+    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview8&#10;搜索正式上线+sitemap优化">
+      <change afterPath="$PROJECT_DIR$/src/pages/nes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/mysterious.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/images/personal/avatar-mmy2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/json/games.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0001 - 三国志 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0002 - 台湾麻将 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0003 - 三十六计 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0004 - 93超级魂 - 烟山软件 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0005 - 1991赌马 - Super Mega Idea Tek (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0006 - 飞人战士 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0007 - 恶魔城 - 佛易汉化组 吸血男爵汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0008 - 弹射球 - 佛易汉化组 8GUA汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0009 - 包青天 - 卡圣 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0010 - 蝙蝠侠 - 幻想汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0011 - 美女与野兽 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0012 - 75宾果 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0013 - 超惑星战记 - 樱组汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0014 - 楚汉争霸 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0015 - 夺宝小英豪 光明与黑暗传说 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0016 - 成龙之龙 - 俞亮汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0017 - 帝国战机 - 幻想汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0018 - 第四次机器人大战 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0019 - 大战略 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0020 - 七龙珠Z 超武斗传5 - 卡圣(可选语言版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0021 - 地道战 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0022 - 机器猫小叮当 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0023 - 双截龙3 - 幻想汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0024 - 勇者斗恶龙4 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0025 - 勇者斗恶龙5 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0026 - 勇者斗恶龙6 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0027 - 勇者斗恶龙7 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0028 - 玛莉医生 - Puszta汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0029 - 疯狂鸡蛋仔 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0030 - 无尽的任务(里见八犬传) - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0031 - 封神榜 伏魔三太子 - CE Inc (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0032 - 银河时代(最终幻想1) - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0033 - 宇宙战将(最终幻想2) - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0034 - 空中魂斗罗 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0035 - 古巴战士 - 惊风汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0036 - 荆轲新传 - Super Tone (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0037 - 七宝奇谋 - 王龙汉化小组汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0038 - 大话西游 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0039 - 哈利传奇 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0040 - 霹雳神兵 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0041 - 战国群雄传 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0042 - 甲A - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0043 - 基督山恩仇记 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0044 - 星际魂斗罗 - 樱组汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0045 - 西天取经 - TXC (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0046 - 赤影战士 - GXB汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0047 - 电视玛琍 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0048 - 月宫桌球 - 闪 纯静水汉化 MS修正版 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0049 - 绿野仙踪 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0050 - 魔法门之英雄无敌 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0051 - 猫捉老鼠 - 奇玉汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0052 - 扑克精灵 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0053 - 魔道士阴谋 - 外星科技汉化 姜维第二修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0054 - 未来小子 - Joy Van (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0055 - 三眼神童 - Flow Wolf汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0056 - 魔神法师 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0057 - 赌神 - 先锋卡通汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0058 - 冒险岛 - Justin汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0059 - 帝国风暴 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0060 - 星空飞箭 - 强典 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0061 - 忍者龙剑传 - TPU汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0062 - 忍者龙剑传2暗黑邪神剑 - TPU汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0063 - 忍者龙剑传3黄泉方舟 - Peacock Wang汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0064 - 忍者龙剑传3黄泉方舟 - TPU汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0065 - 外星战士2 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0066 - 水浒传 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0067 - 公路赛车 - 阿渊汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0068 - 洛克人6史上最长的战斗 - 不知所云汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0069 - 绿色兵团 - SW汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0070 - 圣斗士星矢 黄金传说完结篇 - 勇者汉化小组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0071 - 三国志4赤壁风云 - Future (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0072 - SD英雄总决战 打倒恶之军团 - Zero Boy汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0073 - 星际武士 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0074 - 上海大亨 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0075 - 圣火列传 - CE Inc (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0076 - 双截龙2 - 阿渊汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0077 - 红巾特工队 - 佛易汉化组 8GUA汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0078 - 小玛琍 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0079 - 第2次超级机器人大战 - 未知(记忆修正版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0080 - 隋唐演义 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0081 - 烈火92 - 幻想汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0082 - 超级魂斗罗 - 樱组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0083 - 超级魂2 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0084 - 超级马利兄弟 - 未知(MS修正) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0085 - 超级魂斗罗X - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0086 - 中国象棋 - TXC (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0087 - 吞食天地2 - 未知(繁体中文BonnyXie修正版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0088 - 网球 - 顽石汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0089 - 俄罗斯方块 - 佛易汉化组 8GUA汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0090 - 挖金 - Dogout汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0091 - 忍者神龟2 - 樱组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0092 - 三国志英杰传(吞食天地1) - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0093 - 吞食天地2 - 未知(简体中文屎王修正版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0094 - 人间兵器 - TPU汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0095 - 外星战士 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0096 - 黄帝 涿鹿之战 - Asder (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0097 - 创世纪英雄 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0098 - 笑傲江湖 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0099 - 杨家将 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0100 - 英烈群侠传 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0101 - 耀奇之神奇蛋仔 - Puszta汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0102 - 少年游侠 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0103 - 幽游白书 魔界最强列传 Final - 卡圣 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0104 - 东方的传说 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0105 - 机甲战士 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0106 - 重装机兵 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0107 - 超级战魂 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0108 - 爱的小屋 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0109 - 爆笑三国 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0110 - 东风 - 天使汉化组 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0111 - 恶魔之剑 - Antigloss汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0112 - 黑暗之蛊 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0113 - 荒野大镖客 - 高艳龙汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0114 - 魂斗罗 - 酷酷小熊汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0115 - 假面忍者花丸 - Peacock Wang汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0116 - 口袋精灵 金 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0117 - 快打旋风 - 模拟中文网汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0118 - 龙珠英雄(半熟英雄) - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0119 - 洛克人2 - NeoX汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0120 - 马戏团 - 汉化情报站汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0121 - 冒险岛2 - 高艳龙汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0122 - 冒险岛3 - 高艳龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0123 - 欧陆之战 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0124 - 皮诺槽的复苏 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0125 - 有趣的方块游戏 - 龙组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0126 - 热血格斗传说 - Old Liu汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0127 - 热血新记录 - AIR汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0128 - 热血新记录 - 小滩汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0129 - 热血足球3 - 王龙汉化小组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0130 - 杀虫大战 - 天翔工作组汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0131 - 生化危机 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0132 - 泰坦尼克号 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0133 - 坦克游戏大战 - 模拟中文网 流心小雨汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0134 - 坦克仔 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0135 - 特救指令 - Puszta汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0136 - 特库摩世界杯足球赛 - 王龙汉化小组汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0137 - 天才厨师 - Zero Boy汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0138 - 脱狱 - Peacock Wang汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0139 - 围棋大战 - DC汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0140 - 侠客情 荆轲刺秦王 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0141 - 岳飞传 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0142 - 数码暴龙4水晶版 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0143 - 太空战士5 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0144 - 迷魂车 - Puszta汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0145 - 三国志2霸王的大陆 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0146 - 大金刚 香蕉船 - 两亦 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0147 - 轰天至尊 - TXC (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0148 - 希特勒复活 - TPU汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0149 - 仙剑奇侠 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0150 - 牧场物语 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0151 - 古墓丽影 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0152 - 1942 - MS汉化组 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0153 - 1944 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0154 - 天使之翼2 - 外星科技汉化(lirdrepus转繁体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0155 - 天使之翼2 - 外星科技汉化(lirdrepus繁体版 KANOU转简体第二版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0156 - 盟军赶死队 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0157 - 双截龙2 - Madcell汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0158 - 龙珠Z 超武斗传2 - 天空联盟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0159 - 龙珠Z2 激战弗利萨 - 外星科技汉化 惊风修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0160 - 龙珠Z 赛亚人灭绝计划 - 外星科技汉化 惊风修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0161 - 勇者斗恶龙8 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0162 - F-1赛车 - Madcell汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0163 - F-1赛车 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0164 - 魔域英雄传 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0165 - 成龙之龙 - 王龙汉化小组汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0166 - 绝代英雄 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0167 - JuJu传说 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0168 - 筋肉人 - Madcell汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0169 - 马里奥兄弟 - Madcell汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0170 - 魔神英雄传外传 - Ken_tse汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0171 - 梦幻 香帅传奇之血海飘零 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0172 - 梦之勇士 - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0173 - Q版沙罗曼蛇 - 俞亮汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0174 - 雷霆任务 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0175 - 封神榜 伏魔三太子 - CE Inc(147201688 转简体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0176 - 口袋精灵 金 - 火星电子(147201688转简体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0177 - 外星战士1 - 外星科技(147201688转简体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0178 - 外星战士2 - 外星科技(147201688转简体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0179 - 快打旋风 - 俞亮汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0180 - 神探柯南(赤川次郎之幽灵列车) - 星星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0181 - 三国春秋 四川省 - 卡圣 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0182 - 丝路传奇 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0183 - 爆笑三国 - 外星科技(147201688转简体版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0184 - 剑王 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0185 - 汤姆历险记 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0186 - 坦克大战 - 郭元汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0187 - 网球 - 佛易汉化组 8GUA汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0188 - 街头格斗小子 - 天空联盟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0189 - 西天取经2 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0190 - 超一流烟山杯围棋 - FZ LX汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0191 - 幽灵行动 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0192 - 天使之翼2 - 外星科技汉化 修改版 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0193 - 阿尔戈斯战士 - 孔雀天汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0194 - 埃及 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0195 - 林则徐禁烟 - 外星科技(nfzxyd修正) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0196 - 企鹅先生 冒险之旅 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0197 - 兵蜂 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0198 - 兵蜂3 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0199 - 蜡笔小新 - Furture (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0200 - 生命的奇迹 超级宝宝  - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0201 - 淘气厨师 食物的世界 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0202 - 超级马里奥兄弟3 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0203 - 超级铁板阵 加索布之谜 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0204 - 超时空要塞 - 姜维第二汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0205 - 成龙踢馆 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0206 - 城堡探险 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0207 - 吃豆小精灵 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0208 - 假面的忍者 赤影 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0209 - 赤影战士 - 来福汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0210 - 打空气 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0211 - 大金刚 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0212 - 大金刚3 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0213 - 大金刚Jr - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0214 - 大蜜蜂 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0215 - 弹珠台 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0216 - 魂斗罗力量 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0217 - 加纳战机 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0218 - 洛克人 - 俞亮汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0219 - 洛克人5 布鲁斯的圈套  - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0220 - 洛克人Exile - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0221 - 魔法总动员 - 混沌星辰汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0222 - 口袋里的魔鬼 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0223 - 鸟人战队 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0224 - 纽约大拳猫 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0225 - 泡泡龙2 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0226 - 碰碰车 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0227 - 气球大战 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0228 - 前线大作战 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0229 - 敲冰块 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0230 - 热血高校躲避球 - Old Liu汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0231 - 热血进行曲 - PKome汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0232 - 忍者茶茶丸 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0233 - 三目童子 - Jeff.Ma汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0234 - 三只小猪 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0235 - 圣铃传说 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0236 - 时空小子 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0237 - 水管工马里奥 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0238 - 汤姆和杰瑞和塔菲 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0239 - 天神之剑 - 外星科技汉化 Temryu修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0240 - 铁血战士 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0241 - 屠龙记4 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0242 - 小美人鱼 - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0243 - 小蜜蜂 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0244 - 新人类 - Yurica汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0245 - 星际战机 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0246 - 雪人兄弟 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0247 - 异域诛魂 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0248 - 影子传说 - 中伟汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0249 - 宇宙巡航机2 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0250 - 月之水晶 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0251 - 麻雀世界 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0252 - 迷糊车 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0253 - 魔界塔士 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0254 - 扑克麻雀 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0255 - 战国无双 - 奔升 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0256 - 真本西游记 - Asder (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0257 - 重装机兵 - 未知(ZYM转简体菜单版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0258 - 超级玛莉 - PKome汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0259 - 侍魂 武士道列传 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0260 - 金曲KTV - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0261 - 斗者的挽歌 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0262 - 哥伦布传 - 外星科技汉化 惊风修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0263 - 光之神话 天使岛传说 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0264 - 洛克人4 新的野心 - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0265 - 虎穴行动 - 孔雀天汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0266 - 花式九球 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0267 - 图形推理 智力拼图 - 小霸王 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0268 - 超级魂斗罗 - 王大可汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0269 - 锄大D - 吉昌电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0270 - 筋肉人 摔角大赛 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0271 - 空中魂斗罗 纽约行动 - maoweimam汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0272 - 快打旋风 - Antigloss汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0273 - 三国志2霸王的大陆 - 外星科技汉化(中文加强版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0274 - 圣斗士星矢 天马之幻想 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0275 - 热血物语 - PKome汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0276 - 热血物语 - AIR汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0277 - 双截龙 - 佛易汉化小组 吸血男爵汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0278 - 双截龙 - 靳大治汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0279 - 塞尔达传说 神奇的帽子 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0280 - 天使之翼2 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0281 - 兔宝宝大冒险 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0282 - 吞食天地2 - 未知(laopix简体中文名字版) (CN).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0283 - 脱狱 - 死神DIY汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0284 - 英雄传奇 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0285 - 炸弹人 - 惊风汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0286 - 炸弹人 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0287 - 神勇小白兔 - 中伟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0288 - 最终幻想3 - 外星科技汉化 SSforME记忆修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0289 - 星战情缘 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0290 - 最终幻想7 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0291 - 核心危机 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0292 - 魔界霸主 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0293 - 反恐精英 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0294 - 火焰之纹章 外传 索非亚复苏 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0295 - 黄金太阳 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0296 - 美国富豪 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0297 - 宠物 红 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0298 - 三国忠烈传 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0299 - 上古神剑 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0300 - 神话剑云3 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0301 - 唐伯虎点秋香 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0302 - 东方传说 封印岛 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0303 - 汉堡包 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0304 - FC原人 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0305 - 马步迷阵 趣味成语屋 - 小霸王 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0306 - 封神榜 - 外星科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0307 - 皮卡丘Y2K - 天空联盟汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0308 - 口袋妖怪四合一 - 火星电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0309 - 扑克 - 惊风汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0310 - 热血足球联盟 - 惊风 AirTeam 联合汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0311 - SD英雄总决战 打倒邪恶军团 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0312 - 双鹰 - Joy Van (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0313 - 威洛传奇 - 金巴比伦科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0314 - 大力水手 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0315 - 导弹坦克 - 燕山科技修改 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0316 - 象棋学园 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0317 - 赤影战士 - 来福汉化(小字版) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0318 - 麻雀世界 歌舞伎町篇 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0319 - 混沌世界 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0320 - 救火英雄 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0321 - 快乐猫 - MM之神汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0322 - 龙之忍者 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0323 - 洛克人 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0324 - 洛克人2 Dr.Wily之谜 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0325 - 洛克人3 Dr.Wily的末日 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0326 - 洛克人4 新的野心 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0327 - 洛克人5 布鲁斯的圈套 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0328 - 洛克人6 史上最长的战斗 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0329 - 洛克人X - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0330 - 魔道士阴谋 - 外星汉化 MS第二次修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0331 - 忍者神龟3 - 勒大治汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0332 - 忍者神龟2 - 勒大治汉化 MS修正 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0333 - 三目童子 - MS汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0334 - 四川麻将 制服篇 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0335 - 重装机兵 - 未知(MS修正) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0336 - 圣火徽章 - 外星科技汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0337 - 口袋宝石 银 - 南晶科技 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0338 - AV麻雀俱乐部 - Sachen (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0339 - 坦克大战 - ENTA汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0340 - 英雄源义经传奇 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0341 - 菩故须苛战争 - Rinkaku汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0342 - 帝国战机 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0343 - 挖掘 - MM之神汉化(版本2) (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0344 - 沙罗曼蛇2 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0345 - 冰山登山者 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0346 - 快杰洋枪丸2机关之地大冒险 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0347 - 快杰洋枪丸3对决!相凌轩 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0348 - 快打旋风 - 老代汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0349 - 热血篮球 - 油气车汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0350 - 忍者 阿修罗之章 - 金明汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0351 - 王子复仇记 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0352 - 数奇玉 - 小博士 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0353 - 三国志 群雄争霸 - Asder (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0354 - 冒险岛 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0355 - 双鹰 乔兄弟的复仇 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0356 - 挖地雷 - 未知 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0357 - 洛克人6 史上最大的战争 - Madcell汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0358 - 冒险岛3 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0359 - 星之卡比 星之泉物语 - 烈火暴龙汉化 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0360 - 星河战士 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0361 - 星际争霸 - 恒格电子 (CN).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/0368 -  第二次机器人大战 外星科技汉化第二版(CN).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.FC吞食天地2之诸葛孔明传繁体中文版(画面闪烁第二修正版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.FC呑食天地1(风恋夕林版吞食天地 - 群雄集合).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.FC呑食天地2超高难度版（改）日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.FC天使之翼2光荣的轨迹.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.FC天使之翼2雪崩日本改版作品.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.SD英雄总决战(血不减hack by 小粽子).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.古巴战士无闪烁不死ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.赤影战士 按鍵hack.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.重装机兵JD加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.重装机兵强植版V4.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.风恋夕林版霸王的大陆外传 - 病毒的野望.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1.魂斗罗(死后加命版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.FC吞食天地2简体中文最终版（外星版v1.37）.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.FC天使之翼2俱乐部加强修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.FC天使之翼2日本制霸.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.冒险岛4(血不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.能源战士2(无限HP+无限生命).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.赤影战士(J)透明无敌修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/10.魔鬼总动员加强版(上+START补命补人数).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/100.恶魔城1无敌版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/101.恶魔城1（人物骷髅版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/102.恶魔城僵尸版ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/103.恶魔城 2(无限血).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/104.恶魔城2（人物修改版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/105.恶魔城 3(无限血).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/106.冒险岛2无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/107.冒险岛3完全Hack版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/108.冒险岛4无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.FC吞食天地2五丈原版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.FC天使之翼2南葛的天下.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.FC天使之翼2王者カンビオ－ネ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.神圣使者加强版(上+START补命补魔法).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.蝙蝠侠(命数不减，体力不减，开始武器数量99不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.魔鬼总动员(命不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/11.龙之忍者.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/110.哆啦Ａ夢_修改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/111.小魔怪二代-新种诞生(无限命、气球版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/112.银河号(生命无限版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/113.星际战士无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/114.三目童子无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/115.未来战士HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/116.地球超人最终HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/117.龙牙-摔都摔不死版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/118.马利2无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/119.泡泡龙2.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.FC《吞食天地2之曹操孟德传》ver2.0a.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.FC天使之翼2最初的战斗.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.FC天使之翼2荣光の轨迹.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.忍者猫(血不减+必杀能量不减+帮助能量不减 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.第一滴血HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.翼人加强版(SELECT+START人数为9且装备最强).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.蝙蝠侠工程版HACK(能量命数武器数量等不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/12.蝙蝠侠工程版HACK(透明无敌版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/120.西游记2无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/121.新人类无敌版本.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/122.兽王传 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/123.小美人鱼无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/124.双鹰无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/125.成龙之龙加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/126.暴坊天狗 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/127.地狱极乐丸无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/128.激龟忍者传-无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/129.忍者神龟3-人数加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.FC《吞食天地2之东吴三代传》ver1.6.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.FC天使之翼2世界明星队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.天神之剑中文版（快速升级版）_BY_疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.忍者蛙(无限命hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.脱狱2加强版(上+START补命补人数).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/13.野狼特攻队.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/130.脱狱无限血子弹版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/131.究极-无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/132.兔宝宝冒险无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/133.B计划无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/134.CLU CLU LAND生命无限版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/135.Mother超级版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/137.007加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/138.赤色要塞  无数人.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/139.赤色要塞无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.FC《吞食天地2之曹操孟德传》ver3.73.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.FC天使之翼2天地双龙传.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.FC天使之翼2新皇帝之路PK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.忍者蛙和双截龙(无限命hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.斧王已修正失血BUG.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.机械战警HACK(时间生命不减修正)_by_疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/14.踢王加强版(上+START补命补人数).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/140.特救指令无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/141.超级阿拉伯无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/142.超级马莉1无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/143.超级婴儿无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/144.超时空要塞无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/145.打气球  无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/146.打砖块240命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/147.赌神坦克.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/148.欢乐碰碰车加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/149.大力水手  无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.FC《吞食天地2之东吴三代传》ver3.30.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.FC天使之翼2(中国队之打开通往世界之路(made_by_松山皇帝&amp;小星蟹)需要用EC作弊器锁定体力600.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.FC天使之翼2(瑞典队之白夜皇朝)皇家骑士勋章重制版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.忍者刑警(血不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.机械战警2 半透明无敌版半透明无敌版 by 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.柯拉米世界按SELECT加血版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/15.超级战斗坦克.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/150.火箭车.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/151.火炮不减血版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/152.火焰纹章1超级版本.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/153.火焰纹章外传超级版本.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/155.救火英雄天使重生版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/155.火之鸟无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/156.柯那米世界1僵尸版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/157.柯那米世界 2无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/158.烈火 无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/159.龙战士无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.FC《吞食天地2之曹操孟德传》ver3.92.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.FC天使之翼2 亚泰中超之路－中国腾飞.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.Q版沙蛇 无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.天使之翼2（中国队之在暴风雨中前进）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.最终幻想2美版HACK BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.赤影战士(血不减，受攻击武器威力不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.赤色要塞加强版(SELECT+START补命且变最强弹).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/16.踢王主角无敌HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/160..龙珠z－激斗弗利萨 超级版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/161.马利3调宝版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/162.马戏团 无数人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/164.摩登原始人II加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/165.摩托 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/166.鸟人战队无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/166.鸟人站队无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/167.怒 3 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/168.女神转生超级版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/169.潜艇大战 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.FC《吞食天地2之东吴三代传》ver3.49.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.FC天使之翼2天使之翼2巴西的荣耀Ver2.1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.双截龙2代可跳关版(按1P的SELECT+A键).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.双蛇城(无限命hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.荒野大镖客中文无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/17.超级马里奥欧版透明无敌版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/170.圣斗士星矢加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/171.燃烧战车1加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/172.圣铃传说无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/173.香蕉王子大冒险 (JP)无限血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/174.踢王无限血.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/175.宇宙巡航机加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/176.宇宙巡航机2加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/177.霸王之大陆后备兵无限及战斗时机动力无限.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/178.星之卡比(星之泉精灵物语)无限血(J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/179.伊苏1超级版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.FC吞食天地2秋風五丈原.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.FC天使之翼2 真若林1.2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.不动明王超强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.双截龙3代可跳关版(按住1P的A键和START键).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.松鼠大战(J)体力不减命数不减 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/18.追击HQ(时间不减加速次数不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/180.伊苏2超级版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/181.影子传说无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/182.越野摩托 加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/183.炸弹人不死.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/184.翼人无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/185.中华大仙-无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/186.钟级赛道 加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/187.侏罗纪公园加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/188.追捕无限加速.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/189.最终幻想1超级版本.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.(蓝服)FC天使之翼2梦想之杯重制版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.双截龙4代日版（SELECT+START一起按可补命和时间）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.吞食天地2敵将ゲットだぜ！！！（完全版+15）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.恶魔城1代(血不减+无限命+死后鞭子威力和暗器保留+无限心 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.激龟忍者传2无敌HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/19.终结者2(U)体力不减命不减猎枪子弹不减 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/190.洛克人1无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/191.洛克人2无限人血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/192.洛克人3无限人血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/193.洛克人4无限人血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/194.洛克人5无限人血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1942 (JU).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1943 (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1944.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/1944_1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/195.洛克人6无限血99人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/196.Sky Shark 1945（人数无限）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/197.Sky Shark 1945（炸弹＋人数无限）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/198.银河武士无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/199.古巴革命人数无限.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.FC吞食天地1日文版(原版ROM).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.FC吞食天地2 一骑当千 Hack.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.FC吞食天地2之诸葛孔明传日文版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.FC天使之翼2双星雄霸天下.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.FC天使之翼2皇者归来V1.2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.怒3 油桶+机枪 按键HACK.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.松鼠大战2(体力不减版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.蝙蝠侠回归(血不减+飞镖不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.重装机兵卡兰加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.重装机兵强植版V5.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.风恋夕林版霸王的大陆外传 - 水浒英烈传.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/2.魂斗罗1代 无限人+散弹枪.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.FC天使之翼2胜利之路.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.吞食天地2敵将ゲットだぜ！！！（完全版+15α）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.恶魔城1代无限命hack by 小粽子.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.空中魂斗罗换枪版(SELECT选择子弹).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.魂斗罗1隐藏子弹版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/20.魂斗罗2散弹版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/200.异形复活无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/201.1944点数不减武器时间不减(修正，撞人和中弹也不减时间).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/202.吃豆人数不减.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/204.魔法总动员(血格、魔法、人数不减).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/205.眼镜蛇司令无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/206.圣魔术师(血格、魔法值、人数不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/207.坦克大战2008加速汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/208.空狼(飞机数无敌时间最后关时间不减).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/209.剑王( 接续改为99次，HP不减，MP不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.FC吞食天地2吞食天地2简体中文加强版（外星版v1.36b）.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.FC天使之翼2雪崩中国之雨中蛟龙.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.恶魔城3(血不减+无限命+无限心 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.花式撞球任意摆球版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.菲力克斯猫无限命及强化后无敌ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/21.魂斗罗2(按键HACK) BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/210.突然君(人数不减，子弹不减，在撵到变身后，可以一直变身).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/211.大坦克 (不减血，武器弹药不减HACK).压到地雷会死.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/212.热血曲棍球ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/213.比卡超二.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/214.食鬼小姐加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/215.不动明王传无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/216.北斗神拳2（无敌版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/217.蕾拉(无敌版).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/218.星球大战三部曲之星球大战-南梦宫版(人数不减，能量不减，和飞船无敌，保护不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/219.超级间谍赛车(密技无限使用版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/22.FC吞食天地2三分之蜀篇V017.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/22.西游记1代(瓶子不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/22.飞狼(无敌秘技简化) BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/22.香蕉王子无敌HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/220.激龟忍者传(可选关的,分离并修正).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/221.星际魂斗罗(增加了音乐测试，选关).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/222.捍卫战士 HACK版(导弹不减，人数自增).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/223.荆珂新传_HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/223.荆珂新传_不遇敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/224.希特勒復活中文 無敵強化完美 HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/225.封神榜（双火焰枪版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/226.龙牙 (人数不减和变龙时间不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/227.最终幻想3穿墙版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/228.最终幻想2-穿墙HACK版~.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/229.恐龙战队2(九人.不减血).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/23.FC吞食天地2略微修改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/23.熱血格鬥修改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/23.红猪(血不减 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/23.蒙面人复仇无限生命,无限体力.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/23.龙牙HACK BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/230.世嘉忍者(无限体力).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/231.快杰洋枪3(命钥匙无限).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/232.唐老鸭梦冒险(血时间命无限).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/233.蒙面人复仇(无限生命,无限体力,无限时间).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/234.麦当劳世界命血不减.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/235.超级魂斗罗_八花枪_(中文版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/236.Q版能源战士(体力无限,人数不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/237.重装坦克大战.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/238.森林好小子时间命不减.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/239.重装机兵版YS坦克.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.FC吞食天地2繁体中文加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.FC天使之翼2快速带球版by_しんわ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.忍者龙剑传3(无限命+血不减+死命后剑气保留+忍术不减 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.快打旋风扩展HACK版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.老虎直升机不死ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/24.赤影战士(J)体力不减受攻击加威力 By 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/240.魁!男塾HACK版 血不减.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/241.最终幻想-混乱的世界.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/242.JUMP天国(加其夫天国与地狱)(无限人、武器不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/243.金刚 2 HACK(初始血为900，血不减，石头不减).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/244.热血格斗加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/245.热血曲棍球加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/246.热血高校躲避球无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/247.热血足球无限跳跃版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/248.热血篮球_无限跳跃HACK版 V1.1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/249.沙罗曼蛇(无敌版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.FC吞食天地2周瑜传(周瑜能力修正版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.FC天使之翼2带球调速版by_しんわ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.忍者龙剑传3(无限命+死命后剑气保留 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.捉鬼敢死队2代无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.柯纳米世界2按键HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/25.赤影战士(J)武器威力加强版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/250.忍者神龟2(人数不减).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/251.究极虎加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/252.玛莉3HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/253.忍者龙剑传1代加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/254.忍者龙剑传2代加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/255.忍者龙剑传3代日版加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/256.上尉密令(美国队长)无限血.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/257.顽皮狗(人数不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/258.原人 无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/259.蝙蝠侠2无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/26.FC吞食天地2周瑜传(中文稍改).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/26.KONAMI世界 密技HACK版 (完美修正版) .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/26.空中魂斗罗无敌版(BY yrd2003).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/26.超级间谍猎人(死后子弹射速不降+血不减+无限命+辅助武器无限使用 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/260.宾尼兔2 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/261.超级间谍猎人(无限命、最大体力、死亡不导致降级、副武器无限使用).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/262.超级间谍猎人 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/263.成龙踢馆1代无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/264.成龙踢馆2代无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/265.斗者挽歌 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/266.恶魔城外传  无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/267.工人战记1代 无限命、能量全满.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/268.工人战记2代 无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/269.鬼屋冒险 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/27.FC吞食天地2猪哥恐鸣传日文完美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/27.加纳战机(无限命+无限雷 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/27.怒3(J)体力不减命数不减 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/27.虎胆妙算无限弹药版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/270.红猪 无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/271.红猪 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/272.火炮 (无限命、无限时、无限子弹、无限手雷).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/273.机器人战争(无限命、最强火力、最强体力).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/274.机器人战争  无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/275.极上沙罗曼蛇 死亡后原地复活.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/276.极上沙罗曼蛇 无限命、死亡后保留原武器、随机能量、附武器.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/277.假面忍者花  释放忍术时不消耗能量.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/278.街头战士 无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/279.街头战士 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/28.FC吞食天地2星痕群芳版最終版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/28.忍者神龟3(必杀不扣血+命无限).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/28.激斗忍者龟无限弹珠版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/28.魂斗罗1散弹版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/280.罗宾汉无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/281.摩登原始人1代无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/282.魔界村无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/283.怒1代百命、弹药无限.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/284.怒2代 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/285.七宝奇谋 2 无限命、无限钥匙、无限炸弹、无限弹弓.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/286.七宝奇谋 2 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/287.三目童子 无限命、武器齐全.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/288.唐老鸭2 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/289.踢王(无限命、快速升级、全套道具、无限魔法).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/29.FC吞食天地2泰山封禅传最终版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/29.热血硬派 (无限命 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/29.特救指令 超级变身版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/29.雷鸟1命不减BY疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/290.西游记1 (金箍棒、无限金钱、无限瓶子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/291.眼镜蛇特种部队2代 无敌模式.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/292.宇宙巡航机1(无限命、死亡后保留部分装备、快速升级、加强护盾).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/293.宇宙巡航机1 无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/294.宇宙巡航机2(无限命、快速升级、持久旋转、加强护盾).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/295.宇宙巡航机2 无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/296.炸弹人1代 无限命、无限时.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/297.炸弹人2代 无限命、无限时.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/298.沼泽怪物 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/299.重级作战(无限命、无限钥匙、无限弹药、死亡后保留武器).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.FC三国志英杰传(吞食天地1) - 外星科技汉化完整版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.FC吞食天地1中文版金钱.粮草Hack版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.FC吞食天地2之诸葛孔明传英文版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.FC天使之翼2巴宾通的理想荷兰篇 .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.FC天使之翼2（无限体力版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.忍者龙剑传3 HACK修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.空中魂斗罗(HACK).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.超级玛利水管工人(命不减hack by小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.重装机兵强植版V61.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.重装机兵炫色加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.风恋夕林版霸王的大陆第1期 - 对战的大陆.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/3.龙战士按键HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/30.FC吞食天地2曹魏传改版之远吕智传1.1版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/30.炸弹之王全道具无敌HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/30.美国大拳猫(公猫救母猫)血不减+命不减 by 小粽子.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/30.雷鸟2命不减+最大火力+无敌闪烁BY疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/300.雪人兄弟 无敌模式.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/31.FC吞食天地2简体中文最终版(ver1.37).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/31.fc重装机兵SUPERV1.0修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/31.忍者神龟2(无限命 by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/31.鲁邦三世(日文版)无限道具+选关秘技简化 by 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/32.FC吞食天地2简体中文加强版（外星版ver1.36a）.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/32.最终幻想3完美hack版V1.10隐藏职业测试版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/32.赤影战士BOSS加强版第二版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/32.铁血战士(血不减 by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/33.FC吞食天地2英文加强版 改得超强，超猛.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/33.外星战将任意换人版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/33.少年安那琼斯(U)命不减 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/34.忍者茶茶丸按键HACK第二版 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/34.最终幻想3HP.MP修改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/35.吞食天地2脑残版 v1.2完整版BY舞天长啸.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/35.少年安那琼斯半透明无敌 BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/35.最终幻想3完美hack版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/36.爆笑三国无限移动K.C.H BY 疾风之狼.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/36.萨尔达传说商店HACK版（美）V1.0.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/37.帝国战机HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/38.怪鸭历险记无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/39.梦境冒险HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.FC吞食天地2之诸葛孔明传完美日文版2002超绚的色彩.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.FC吞食天地2曹操传简体中文最终版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.FC呑食天地1曹操版 v1.52 (Tenchi Wo Kurau hack).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.FC天使之翼2德国篇V.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.FC天使之翼2阿根廷队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.三眼童子(体力不减，开始和接关后拥有全部武器)第二版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.坦克大战子弹操控版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.打气球(人数不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.第二次机器人大战机体HP大幅增加 .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.重装机兵强植版V62.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/4.风恋夕林版霸王的大陆第1期 - 对战的大陆君主可捉版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/40.勇者斗恶龙4HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/41.荒野大镖客HACK.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/42.虎胆妙算HACK修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/43.吉米克（体力不损版）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/44.惩罚者HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/45.小魔女皮皮无限血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/46.人间兵器(手枪、机枪子弹；人数；生命不减).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/47.G.I.J特殊部队HACK.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/48.无赖战士无敌ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/49.燃烧战车2HACK .NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.FC吞食天地1(英杰传头像版)外星科技汉化完整版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.FC吞食天地2之诸葛孔明传豪华中文版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.FC吞食天地2简体中文石头无赖版(完整版）.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.FC天使之翼2 EI-ROYAL.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.FC天使之翼2巴西队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.天使之翼2中文版按键HACK版 by dsmbdx.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.星之卡比 无敌hack版星之卡比.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.激龟忍者传(第二版).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.重装机兵强植版V63.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/5.飞狼(命无限 小粽子hack).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/50.忍者神龟3技能HACK版 .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/51.魔神英雄传 HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/52.沙罗曼蛇2加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/53.战场之狼不死ＨＡＣＫ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/54.月风魔传-完全Hack版(初始拥有全装备，剑气全满，HP不减，人越死越多).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/56.洛克人6 HACK 版 .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/57.禁毒卫士无敌版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/58.塞尔达传说 简体中文版 无敌hack.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/59.古巴战士绿火枪＋改色版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.FC吞食天地2之诸葛孔明传简体中文名字版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.FC天使之翼2巴西队(大空翼加盟).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.FC天使之翼2黄金搭档之章.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.七宝奇谋(血不减，命不减，弹弓数不减，全关限时999秒).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.三目童子子弹数量增加版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.双截龙3换人版(START+上换人).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.风恋夕林版霸王的大陆第4期 - 新霸王大陆.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/6.魂斗罗1无限命(小粽子hack).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/60.惩罚者(无限体力,无限生命,无限手雷,无限子弹).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/61.能源战士(手雷获得后无限量,盔甲获得后无限血) .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/62.MD超级忍2移植版HACK .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/63.松鼠大战无敌版(HACK).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/64.松鼠大战2无敌版(HACK).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/65.忍者龙剑传1 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/66.忍者龙剑传2 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/67.忍者龙剑传3无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/68.冒险岛无敌版(HACK).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/69.沙罗曼蛇99机版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.FC吞食天地1吕布版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.FC吞食天地2之诸葛孔明传简体中文修正版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.FC天使之翼2三杉の章.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.FC天使之翼2德国队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.七宝奇谋闪光无敌版加全关限时999秒.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.古巴战士换枪版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.唯一不死的ＦＣ帝国战机ＨＡＣＫ .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.风恋夕林版霸王的大陆外传 三国梦焉0.a版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/7.魂斗罗2代 3合1(命不减hack)可选3种子弹和选关 by 小粽子.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/70.雪人兄弟 超强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/71.加纳战机无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/72.１９４２无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/73.1943 超级无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/74.1944超级无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/75.龙魂无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/76.绿色兵团无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/77.彩虹岛_可无敌特殊ＲＯＭ.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/78.荒野大镖客-子弹无限版+无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/79.快打旋风中文无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.FC吞食天地2之诸葛孔明传简体中文原始版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.FC吞食天地2超强高难度版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.FC天使之翼2法国队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.七宝奇谋(白光无敌，限时999秒).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.双截龙2 全BOSS版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.天2“阿根廷”之章.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.机械战警3美版(体力不减,小粽子hack).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.热血格斗单人出合体技版 低跳版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.热血格斗单人出合体技版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.热血格斗按键HACK版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/8.风恋夕林版半熟英雄.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/80.中东战争无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/81.中东战争无限生命版.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/82.马里奥3无敌熊版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/83.脱狱2 (无敌).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/84.天才厨师修改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/85.勇士们无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/86.兵蜂无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/87.兵蜂II无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/88.兵蜂III无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/89.嘉蒂外传无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.FC吞食天地1之长啸版(最新修改).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.FC吞食天地2之诸葛孔明传原始日文版（原来的一半大小）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.FC天使之翼2东邦.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.FC天使之翼2中国队.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.老鼠偷东西(越死越多 hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.脱狱换枪版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.赤影战士日版(体力不减，开始暗器数量不减修正版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.超狼人战记无敌HACK .nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.风恋夕林版英雄战记3.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/9.鼠偷东西(命不减hack by 小粽子).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/90.梦幻战机无敌.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/91.忍者猫hack.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/92.绿色兵团金身无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/93.绿色兵团超难版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/93超级魂.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/93超级魂修改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/93超级魂加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/94.花式撞球无限杆版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/95.三只小猪无敌版不死.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/96.三只小猪无敌版无限人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/97.鳄鱼先生 无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/98.封神榜不遇敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/99.能源战士无限血.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ADVILND2.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ADVISL3.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ARGOS NO SENSHI (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ASTYANAX.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ATTACK ANIMAL GAKUEN (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Adventure Island 4 (English v1_0).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/After Burner 2 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Alien 3 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Alien Syndrome (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/B-WINGS (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BALLOON FIGHT (JU).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BATMAN.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BATTLE CITY (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BOMBER KING (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BOMBER MAN (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/BOMBER MAN 2 (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Back to the Future (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Back to the Future 2 &amp; 3 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Battletoads (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Battletoads Double Dragon (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/CIRCUS CHARLIE (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/COMMANDO (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Captain Tsubasa (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Captain Tsubasa Vol 2 - Super Striker (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Chip to Dale no Dai Sakusen (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Chip to Dale no Dai Sakusen 2 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Chou Jikuu Yousai - Macross (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Choujin Sentai - Jetman (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Chuka Taisen (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Code Name Viper (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Contra (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Contra Force (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Contra Force (U)_1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Crisis Force (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Cross Fire (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/DRAGON UNIT (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dai 2 Ji - Super Robot Taisen (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Double Dragon (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Double Dragon 2 - The Revenge (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Double Dragon 3 - The Sacred Stones (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Double Dragon II - The Revenge (U) hack by D.S.ghtMaster KRIZAL-完整 左+右邊飛膝攻擊.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Double Dragon II - The Revenge (U) hack by D.S.ghtMaster KRIZAL按下选择钮,可以做出蹲姿.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball - Shen Ron No Nazo (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball 2 - Daimaou Fukkatsu (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball 3 - Gokuu Den (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball Z - Kyoushuu! Saiya Jin (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball Z 2 - Gekishin Freeza! (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball Z 3 - Ressen Jinzou Ningen (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Fighter (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dragon Ninja (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Dynamite Batman (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/EXERION (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/FAMILY BOXING (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/FCTE019.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/FC街霸２YOKO版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Famicom Wars (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ffuryspc.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Final Fantasy (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Final Fantasy 2 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Final Fantasy 3 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/FireEmblem(C).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/GIJOE.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Gradius (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Gradius 2 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Great Battle Cyber (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Great Tank (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Guerrilla War (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Gun Smoke (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Heavy Barrel (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hector 87 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hi No Tori - Houou Hen - Gaou No Bouken (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hokuto No Ken (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hokuto No Ken 2 - Seikimatsu Kyuuseishu Densetsu (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hudoumyouou Den (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Hudson's Adventure Island (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ICE CLIMBER (JE).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/IKKI (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ikari 3 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Jackal (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Jackie Chan (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Juuouki (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/KARNOV.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/KICKMAST.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/KING'S KNIGHT (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/KINNIKUMAN - MUSCLE TAG MATCH (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Kage no Densetsu (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Kamen No Ninja - Akakage (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Kyouryuu Sentai Juranger (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Kyuukyoku Tiger (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/LGNDWNGS.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/LITTLE MERMAID - OU HIME (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/LONERNGR.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/LUNAR BALL (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Lethal Weapon (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/MUSASHI NO KEN (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mad City (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mega Man (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mega Man 2 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mega Man 4 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mega Man 5 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mega Man 6 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Metal Gear (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mighty Final Fight (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Mitsume Ga Tooru (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/NEKKETSU KOUHA - KUNIO KUN (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/NINJA CRUSADERS (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Gaiden (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Gaiden 2 - The Dark Sword of Chaos (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Gaiden 3 - The Ancient Ship of Doom (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Ryukenden (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Ryukenden 2 - Ankoku No Jashin Ken (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ninja Ryukenden 3 - Yomi No Hakobune (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/POOYAN (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/POW.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/PUNISHER.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/PUZZNIC (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Predator (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Probotector (E).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Probotector 2 - Return of the Evil Forces (E).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/QUARTH (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/RAINBOW ISLANDS - THE STORY OF BUBBLE BOBBLE 2 (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/RAMBO (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/ROAD FIGHTER (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Raf World (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Robocop (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Robocop 3 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Robocop Vs The Terminator (Prototype) (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 2 - Dr Wily No Nazo (J)改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 2 - Dr Wily no Nazo (J)禬眏HACK V1.0b.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 3 - Dr Wily No Saigo! (J)改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 3 - Dr Wily no Saigo!Hack By KRIZAL V1.0b (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 3.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 4 - Aratanaru Yabou!! (J)HACK_BY_KRIZAL V1.1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 4 - Aratanaru Yabou!! (J)改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 4.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 5 - Blues No Wana! (J)改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 5 - Blues no Wana! (J)HACK_BY_KRIZALV1.1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 5.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 6 - Shijou Saidai No Tatakai!! (J)改.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 6 - Shijou Saidai no Tatakai!! HACK By KRIZAL(J)V1.1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rockman 6.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Rush'n Attack (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/SAIYUUKI WORLD (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/SCAT - Special Cybernetic Attack Team (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/SHUFFLEPUCK CAFE (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/SKY DESTROYER (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/SON SON (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Saint Seiya - Ougon Densetsu Kanketsu Hen (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Salamander (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/San Guo Zhi - CaoCao Zhuan (NJ018) (Ch).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Side Pocket (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Silk Worm (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Super Contra (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Super Mario Bros 2 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Super Mario Bros 3 (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Sword Master (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/T2.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/TWIN EAGLE - REVENGE JOE'S BROTHER (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/TWINBEE (J).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Teenage Mutant Ninja Turtles (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Teenage Mutant Ninja Turtles (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Teenage Mutant Ninja Turtles 2 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Teenage Mutant Ninja Turtles 3 (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Teenage Mutant Ninja Turtles Tournament Fighters (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Terminator, The (U).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Yie Ar Kung-Fu (V1.4) (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ys (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ys 2 - Ancient Ys Vanished The Final Chapter (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/Ys 3 - Wanderers From Ys (J).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/bionic commando (u).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/captain america and the avengers (u).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/isolated warrior (u).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/monster in my pocket (u).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/robocop2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/scontra.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/street fighter 2010 (u).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/三国志2New版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/三国志2New老地图COM读书可捉君主版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/三国志2New老地图COM读书版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/三国志2New老地图版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/上海大亨.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代汉化版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代汉化版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代热血版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙1代马里奥版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2中文hack版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代可跳关版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代无限人数版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代汉化版(大字体).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙2代美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代加强版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代加强版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代可跳关版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代可跳关版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙3代美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙4代日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙4代美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/双截龙体力不减.NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/叮噹无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/吞食天地2乱世枭雄.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/圣斗士星矢2汉化.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/大话西游.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/孤独战士-惑星戒严令加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/孤独战士-惑星戒严令日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/孤独战士-惑星戒严令欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/孤独战士-惑星戒严令美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/宇宙战机.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/宇宙战机加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/导弹坦克.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/封神榜.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/少年街霸2'97.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/少年街霸2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/快打旋风.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/快打魂斗罗.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/快打魂斗罗加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/怪鸭历险记二代(超级魂斗罗改版).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗加强版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗加强版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗日版完美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/星际魂斗罗美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗SELECT键加血版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗加强版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗加强版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗日版汉化1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗日版汉化2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗欧版汉化.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/水上魂斗罗美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/猫捉老鼠无限命.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗中文无限命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗日版汉化.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗欧版汉化.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/空中魂斗罗超强BUG版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/笑傲江湖.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸12人(6人).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸16人(8人).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸18人(9人).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸20人(10人).NES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸20人(10人)CONY.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸4人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸4人（HACK为5人）.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸56人(13人).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸5人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸60人(10人)CONY(提取).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸60人(10人)CONY.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸8人CONY.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/街霸9人.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/赤影战士.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级战魂.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级战魂加强版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级战魂加强版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级战魂改标题版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级玛丽.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗日版汉化.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗枪林弹雨版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗美版汉化1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗美版汉化2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗菜单版1(有缺陷).nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/超级魂斗罗菜单版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/重级作战加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/重级作战改版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/重级作战日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/重级作战美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗-93超级魂.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗-超级魂2代.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代30人S弹.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代日版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代日版30人S弹.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代日版英化1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代日版英化2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代欧版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代美版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代菜单版1.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代菜单版2.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗1代超强无敌版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代初始8命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代无限命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代标题汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代高跳+无限命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗3代高跳版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗6代.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗X.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗X加强版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗X汉化版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗精神1995.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗精神1995无限命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗精神1996.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魂斗罗精神1996无限命版.nes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/nes-rom/魔神英雄传外传.nes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patches/vitepress-theme-ninc+1.0.42.patch" beforeDir="false" afterPath="$PROJECT_DIR$/patches/vitepress-theme-ninc+1.0.42.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vitepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +1244,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "E:/ZMdocs-v4",
+    "last_opened_file_path": "E:/ZMdocs-v4/src/public/nes-rom",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -76,11 +1261,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZMdocs-v4\src\public\nes-rom" />
+      <recent name="E:\ZMdocs-v4\src\public\json" />
+      <recent name="E:\ZMdocs-v4\src\public\images\personal" />
       <recent name="E:\ZMdocs-v4" />
       <recent name="E:\ZMdocs-v4\src\pages\tags" />
-      <recent name="E:\ZMdocs-v4\src\public\images\personal" />
-      <recent name="E:\ZMdocs-v4\src\public\images\ui" />
-      <recent name="E:\ZMdocs-v4\src\public\images\icons" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ZMdocs-v4\src\public\images\personal" />
@@ -90,7 +1275,7 @@
       <recent name="E:\ZMdocs-v4\src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.docs:build">
+  <component name="RunManager" selected="npm.docs:dev">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ZMdocs-v4" />
       <option name="ENV_FILES" value="" />
@@ -228,7 +1413,7 @@
       <workItem from="1787219291457" duration="1263000" />
       <workItem from="1787221334194" duration="29000" />
       <workItem from="1787223692540" duration="309000" />
-      <workItem from="1787226656975" duration="2844000" />
+      <workItem from="1787226656975" duration="7255000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -294,7 +1479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787227065006</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ZMdocs版本Dev4Preview8&#10;搜索正式上线+sitemap优化">
+      <option name="closed" value="true" />
+      <created>1787229593401</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787229593401</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +1513,7 @@
     <MESSAGE value="ZMdocs版本Dev4Preview5&#10;小修css" />
     <MESSAGE value="ZMdocs版本Dev4Preview6&#10;小修css" />
     <MESSAGE value="ZMdocs版本Dev4Preview7&#10;搜索准备集成" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview7&#10;搜索准备集成" />
+    <MESSAGE value="ZMdocs版本Dev4Preview8&#10;搜索正式上线+sitemap优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview8&#10;搜索正式上线+sitemap优化" />
   </component>
 </project>

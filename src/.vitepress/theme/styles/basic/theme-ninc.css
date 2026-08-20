@@ -120,3 +120,12 @@ html.dark .nav-btn:hover img.nav-btn-img[src$=".svg"] {
         line-height: 1.2 !important;
     }
 }
+
+/* 修复NES模拟器右侧黑边问题 */
+/* 覆盖 vitepress-theme-ninc 中对 canvas 的 transform 放大 */
+.nes-game canvas {
+    transform: none !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain;
+}

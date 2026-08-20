@@ -7,10 +7,10 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="e04bbe5c-81e5-465e-a603-95b9b65c972f" />
+              <option name="sessionId" value="2e6d103f-cad1-4442-a0de-c6bffc0b8184" />
               <option name="cwd" value="E:\ZMdocs-v4" />
               <option name="model" value="claude-sonnet-4-7[1m]" />
-              <option name="permissionMode" value="acceptEdits" />
+              <option name="permissionMode" value="plan" />
             </TabSessionState>
           </value>
         </entry>

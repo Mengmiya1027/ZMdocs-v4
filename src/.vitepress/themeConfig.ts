@@ -119,6 +119,13 @@ export const themeConfig = defineThemeConfig({
             ]
         }
     ],
+    comment: {
+        enable: true,
+        twikoo: {
+            envId: 'https://zmdocs-v4-twikoo.netlify.app/.netlify/functions/twikoo',
+            lang: 'zh-CN'
+        }
+    },
     // 站点统计
     tongji: {
         '51la': '3QwAY6dUpg6lP5Gk'

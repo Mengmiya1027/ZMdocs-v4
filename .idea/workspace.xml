@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview3&#10;神秘">
-      <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
+    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/categories/[name].paths.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/categories/[name].paths.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/tags/[name].paths.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tags/[name].paths.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +143,7 @@
       <updated>1787121635804</updated>
       <workItem from="1787121637081" duration="25127000" />
       <workItem from="1787186843223" duration="3689000" />
-      <workItem from="1787190573040" duration="14797000" />
+      <workItem from="1787190573040" duration="15111000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -180,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787206291183</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404">
+      <option name="closed" value="true" />
+      <created>1787210314551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787210314551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +207,7 @@
     <MESSAGE value="ZMdocs版本Dev4Preview1&#10;准备环境" />
     <MESSAGE value="ZMdocs版本Dev4Preview2&#10;准备环境" />
     <MESSAGE value="ZMdocs版本Dev4Preview3&#10;神秘" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview3&#10;神秘" />
+    <MESSAGE value="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404" />
   </component>
 </project>

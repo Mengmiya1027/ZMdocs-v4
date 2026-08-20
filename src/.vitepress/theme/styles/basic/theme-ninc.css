@@ -84,10 +84,8 @@ html.dark .nav-btn:hover img.nav-btn-img[src$=".svg"] {
 }
 
 #skills-tags-group-all .tags-group-icon{
-    height: 80px !important;
-    width: 120px !important;
-    border-radius: 16px !important;
-    corner-shape: superellipse(1.2) !important;
+    border-radius: 50px !important;
+    corner-shape: superellipse(2.2) !important;
 }
 
 #skills-tags-group-all .tags-group-icon img {

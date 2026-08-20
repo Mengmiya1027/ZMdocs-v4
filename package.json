@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "vitepress": "^1.6.4",
+    "vitepress-theme-ninc": "^1.0.42"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev src",
+    "docs:build": "vitepress build src",
+    "docs:preview": "vitepress preview src",
+    "postinstall": "patch-package"
+  }
+}

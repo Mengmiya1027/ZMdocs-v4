@@ -1,0 +1,53 @@
+diff --git a/node_modules/vitepress-theme-ninc/dist/defineConfig.js b/node_modules/vitepress-theme-ninc/dist/defineConfig.js
+index f609f44..ba433fc 100644
+--- a/node_modules/vitepress-theme-ninc/dist/defineConfig.js
++++ b/node_modules/vitepress-theme-ninc/dist/defineConfig.js
+@@ -322,7 +322,7 @@ var FALLBACK_SECRET_KEY = "vitepress-theme-ninc-fallback-key-not-secure-please-c
+ var getPostMDFilePaths = async (postsDir) => {
+   try {
+     postsDir = postsDir || path2.resolve(process.cwd(), "posts");
+-    const relPostsDir = path2.relative(process.cwd(), postsDir);
++    const relPostsDir = path2.relative(process.cwd(), postsDir).split(path2.sep).join("/");
+     let paths = await globby([`${relPostsDir}/**/*.md`], {
+       ignore: ["node_modules", "pages", ".vitepress", "README.md"]
+     });
+@@ -351,7 +351,7 @@ var comparePostPriority = (a, b) => {
+   return compareDate(a, b);
+ };
+ var getAllPosts = async (postsDir, cryptoSecretKey, options = {}) => {
+-  const { includeContent = false } = options;
++  const { includeContent = false, urlStrip = "" } = options;
+   try {
+     let paths = await getPostMDFilePaths(postsDir);
+     let posts = await Promise.all(
+@@ -396,7 +396,7 @@ var getAllPosts = async (postsDir, cryptoSecretKey, options = {}) => {
+             tags,
+             categories,
+             description,
+-            regularPath: `/${item.replace(".md", ".html")}`,
++            regularPath: `/${(urlStrip ? item.replace(new RegExp("^" + urlStrip + "/"), "") : item).replace(".md", ".html")}`,
+             top,
+             cover,
+             recommend,
+@@ -1503,7 +1503,7 @@ function defineConfig(userConfig = {}, userThemeConfig = {}, options = {}) {
+     }
+     const aiSummaryConfig = themeConfig?.aiSummary;
+     const aiSummaryEnable = aiSummaryConfig?.enable === true;
+-    const postData = await getAllPosts(postsDir, cryptoSecretKey, { includeContent: aiSummaryEnable });
++    const postData = await getAllPosts(postsDir, cryptoSecretKey, { includeContent: aiSummaryEnable, urlStrip: normalizeUserPath(options.postsUrlStrip) });
+     let aiSummaryMap = {};
+     if (aiSummaryEnable) {
+       const { summaries } = await generateAiSummaries(postData, aiSummaryConfig);
+diff --git a/node_modules/vitepress-theme-ninc/src/node/defineConfig.ts b/node_modules/vitepress-theme-ninc/src/node/defineConfig.ts
+index d4b539a..fac1b3a 100644
+--- a/node_modules/vitepress-theme-ninc/src/node/defineConfig.ts
++++ b/node_modules/vitepress-theme-ninc/src/node/defineConfig.ts
+@@ -32,6 +32,8 @@ import type { ThemeConfig, UserThemeConfig } from '../types/index'
+ export interface DefineConfigOptions {
+   /** 文章源目录，默认 path.resolve(process.cwd(), 'posts') */
+   postsDir?: string
++  /** 从文章 URL 中剥离的前缀。当站点内容放在 src/ 子目录、VitePress 根为 src 时，设为 'src' 以生成正确的 /posts/xxx.html 路由 */
++  postsUrlStrip?: string
+   /** RSS 输出路径，默认 path.join(outDir, 'rss.xml')，写入 VitePress 构建输出目录 */
+   rssOutput?: string
+   /** SVG 图标扫描目录，默认 [path.resolve(process.cwd(), 'public/svg')] */

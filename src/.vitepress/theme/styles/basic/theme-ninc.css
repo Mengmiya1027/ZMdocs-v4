@@ -1,0 +1,119 @@
+:root {
+    --main-shadow-purple: 0 8px 12px -3px #8b5cf636;
+
+}
+
+a.categoryButton.purple{
+    background: linear-gradient(to right, rgb(101 38 211 / 0.9), rgba(139, 92, 246, 0.9));
+    background-size: 200%;
+}
+
+.hello.s-card.weidgets .tip{
+    margin-bottom: 0 !important;
+}
+
+.hello-image-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.hello-image{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+    corner-shape: superellipse(1.25);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+/**
+ * 修复：SVG 类型 img 图标与 iconfont 行为保持一致
+ * 仅对 src 以 .svg 结尾的 img 生效，不影响 JPG/PNG 等位图
+ *
+ * iconfont 通过 color: var(--main-font-color) 自动适配，SVG img 需要 filter 模拟：
+ * 浅色：默认黑色 → hover 变白（--main-card-background: #fff）
+ * 深色：默认白色（invert(1)）→ hover 变深色（--main-card-background: #1b1c20）
+ */
+
+/* 1. navMore 下拉菜单中的 SVG 图标 */
+img.link-icon[src$=".svg"] {
+    transition: filter 0.3s;
+    margin-right: 4px !important;
+}
+html.dark img.link-icon[src$=".svg"] {
+    filter: invert(1);
+}
+html:not(.dark) .more-link:hover img.link-icon[src$=".svg"] {
+    filter: brightness(0) invert(1);
+}
+html.dark .more-link:hover img.link-icon[src$=".svg"] {
+    filter: invert(0);
+}
+
+/* 2. 导航栏右侧自定义按钮的 SVG 图标 */
+img.nav-btn-img[src$=".svg"] {
+    transition: transform 0.3s, filter 0.3s;
+}
+html.dark img.nav-btn-img[src$=".svg"] {
+    filter: invert(1);
+}
+html:not(.dark) .nav-btn:hover img.nav-btn-img[src$=".svg"] {
+    filter: brightness(0) invert(1);
+}
+html.dark .nav-btn:hover img.nav-btn-img[src$=".svg"] {
+    filter: invert(0);
+}
+
+/*关于页面*/
+.about-item{
+    border-radius: 100px !important;
+    corner-shape: superellipse(2.7) !important;
+}
+
+.about-content:has(.about-item.career){
+    display: block !important;
+}
+
+.about-item.career{
+    display: none !important;
+}
+
+.about .about-content .about-item.skills[data-v-a917a0dc] {
+    height: 300px !important;
+}
+
+#skills-tags-group-all .tags-group-icon{
+    height: 80px !important;
+    width: 120px !important;
+    border-radius: 16px !important;
+    corner-shape: superellipse(1.2) !important;
+}
+
+#skills-tags-group-all .tags-group-icon img {
+    max-height: 70px !important;
+}
+
+.skills-list{
+    margin: auto 0 !important;
+}
+
+.about .about-content .about-item .title2{
+    margin-right: 0 !important;
+}
+
+/*MBTI*/
+.about-item.character{
+    --color: rgb(51, 164, 116) !important;
+}
+
+/*座右铭背景*/
+.about-item.character ~ .about-item{
+    background-image: url("/images/ui/bg-1.jpg");
+    background-size: cover;
+}
+@media (max-width: 768px){
+    .about .about-content .about-item.hello .title2.text2{
+        line-height: 1.2 !important;
+    }
+}

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404">
+    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview5&#10;小修css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/theme/styles/basic/theme-ninc.css" afterDir="false" />
     </list>
@@ -143,7 +143,7 @@
       <updated>1787121635804</updated>
       <workItem from="1787121637081" duration="25127000" />
       <workItem from="1787186843223" duration="3689000" />
-      <workItem from="1787190573040" duration="15111000" />
+      <workItem from="1787190573040" duration="15206000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787210314551</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ZMdocs版本Dev4Preview5&#10;小修css">
+      <option name="closed" value="true" />
+      <created>1787210630005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787210630005</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +216,7 @@
     <MESSAGE value="ZMdocs版本Dev4Preview2&#10;准备环境" />
     <MESSAGE value="ZMdocs版本Dev4Preview3&#10;神秘" />
     <MESSAGE value="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview4&#10;评论功能+修复页面404" />
+    <MESSAGE value="ZMdocs版本Dev4Preview5&#10;小修css" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview5&#10;小修css" />
   </component>
 </project>

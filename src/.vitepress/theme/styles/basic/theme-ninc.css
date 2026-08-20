@@ -27,6 +27,11 @@ a.categoryButton.purple{
     box-shadow: 0 1px 10px rgba(0, 0, 0, 0.2);
 }
 
+/*主页大标题*/
+.banners-title {
+    top: 1.9rem;
+    left: 2rem;
+}
 /**
  * 修复：SVG 类型 img 图标与 iconfont 行为保持一致
  * 仅对 src 以 .svg 结尾的 img 生效，不影响 JPG/PNG 等位图

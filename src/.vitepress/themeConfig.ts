@@ -94,6 +94,10 @@ export const themeConfig = defineThemeConfig({
             ]
         }
     ],
+    // 站点统计
+    tongji: {
+        '51la': '3QwAY6dUpg6lP5Gk'
+    },
     about: {
         // 头像两侧技能标签
         avatarSkills: {
@@ -136,29 +140,29 @@ export const themeConfig = defineThemeConfig({
         },
         // 音乐偏好
         musicPreference: {
-            image: '/images/cover.svg',
+            image: '/images/personal/music-preference.jpg',
             color: '#ffffff22',
-            tip: '音乐偏好',
-            title: '欧美、KPOP、R&B',
-            desc: '一起欣赏更多音乐'
+            tip: 'Music🎵',
+            title: 'Charlie',
+            desc: '风雨同周，深情不移'
         },
-        // 数据统计（需配合 tongji 配置使用）
+        // 数据统计（配合 tongji.busuanzi 使用）
         statistics: {
             color: '#0f1114',
-            image: '',
+            image: '/images/ui/bg-2-dark.png',
             tip: '数据',
             title: '访问统计',
             desc: '统计信息来自',
-            source: '51la',
-            sourceLink: 'https://v6.51.la/'
+            source: '不蒜子',
+            sourceLink: 'http://busuanzi.ibruce.info/'
         },
         // 信息区域（mapImage 为地图图片，address 为居住地址，items 为信息项）
         info: {
-            mapImage: '/images/address.png',
-            address: '你的地址',
+            mapImage: '/images/personal/address.png',
+            address: '四川省 宜宾市',
             items: [
-                { name: '生于', value: '2000', color: '#43a6c6' },
-                { name: '现在职业', value: '前端开发工程师', color: '#dfac46' }
+                { name: '生于', value: '7891', color: '#43a6c6' },
+                { name: '现在职业', value: '神人哈基米', color: '#dfac46' }
             ]
         }
     }

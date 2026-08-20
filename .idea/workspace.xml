@@ -4,12 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e5831c7a-b686-4e1c-8e26-ff05a1daa193" name="更改" comment="ZMdocs版本Dev4Preview1&#10;准备环境">
+      <change afterPath="$PROJECT_DIR$/src/pages/[num].md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[num].paths.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/archives.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/categories.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/categories/[name].md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/categories/[name].paths.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/comments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/equipment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tags/[name].md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tags/[name].paths.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/thanks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/images/personal/address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/images/personal/music-preference.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/claudeCodeTabState.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vitepress/themeConfig.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +39,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Mengmiya1027"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mengmiya1027&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mengmiya1027/ZMdocs-v4.git",
-    "accountId": "c93b1a2b-824a-4c9b-9a7a-71fc9855183c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mengmiya1027/ZMdocs-v4.git&quot;,
+    &quot;accountId&quot;: &quot;c93b1a2b-824a-4c9b-9a7a-71fc9855183c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: true
@@ -55,7 +68,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "E:/ZMdocs-v4",
+    "last_opened_file_path": "E:/ZMdocs-v4/src/pages/tags",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,11 +84,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZMdocs-v4\src\pages\tags" />
+      <recent name="E:\ZMdocs-v4\src\public\images\personal" />
       <recent name="E:\ZMdocs-v4" />
       <recent name="E:\ZMdocs-v4\src\public\images\ui" />
       <recent name="E:\ZMdocs-v4\src\public\images\icons" />
-      <recent name="E:\ZMdocs-v4\src\public\svg" />
-      <recent name="E:\ZMdocs-v4\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ZMdocs-v4\src\public\images\icons" />
@@ -142,7 +155,8 @@
       <option name="presentableId" value="Default" />
       <updated>1787121635804</updated>
       <workItem from="1787121637081" duration="25127000" />
-      <workItem from="1787186843223" duration="1046000" />
+      <workItem from="1787186843223" duration="3689000" />
+      <workItem from="1787190573040" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -152,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787187423426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ZMdocs版本Dev4Preview1&#10;准备环境">
+      <option name="closed" value="true" />
+      <created>1787187956165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787187956165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +182,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="ZMdocs版本Dev4Preview1&#10;准备环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZMdocs版本Dev4Preview1&#10;准备环境" />
   </component>
 </project>

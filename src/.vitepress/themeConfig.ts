@@ -91,7 +91,7 @@ export const themeConfig = defineThemeConfig({
         {
             text: '工具',
             items: [
-                { text: '在线工具集', link: '/pages/tools', icon: 'tool' },
+                { text: 'nes模拟器', link: '/pages/nes', icon: 'game' },
                 { text: '友情链接', link: '/pages/friends', icon: 'link' }
             ]
         }
@@ -119,6 +119,21 @@ export const themeConfig = defineThemeConfig({
                 { icon: 'github', iconType: 'iconfont', name: '文档仓库', url: 'https://github.com/Mengmiya1027/ZMdocs-v4', target: '_blank' },
                 { icon: '/images/icons/bxl--qq.svg', iconType: 'img', name: '人机工程局', url: 'https://qm.qq.com/q/Drdh1lFYje', target: '_blank' }
             ]
+        }
+    ],
+    navButtons: [
+        {
+            name: '我的工具站',
+            iconType: 'img',
+            icon: '/images/icons/paint.svg', // 放在 public/images/ 下
+            url: 'https://tool.example.com'
+        },
+        {
+            name: 'GitHub 仓库',
+            iconType: 'iconfont',
+            icon: 'github',
+            url: 'https://github.com/Mengmiya1027/ZMdocs-v4',
+            target: '_blank'
         }
     ],
     comment: {
@@ -204,6 +219,20 @@ export const themeConfig = defineThemeConfig({
                 { name: '生于', value: '7891', color: '#43a6c6' },
                 { name: '现在职业', value: '神人哈基米', color: '#dfac46' }
             ]
+        }
+    },
+    friends: {
+        // 留言板
+        comments: {
+            title: '留言板',
+            author: '稚梦沈星河&愿Wish',
+            cover: '/images/cover/bg-comment.jpg',
+            message: [
+                '✨「欢迎光临我们的小天地！想聊什么都可以～」',
+                '📢 留言区开放：与网友一同分享你的小巧思吧！',
+                '📖 每一句留言都会成为这个角落的光。'
+            ],
+            bottom: 'Make you feel mysterious.'
         }
     },
     footer: {

@@ -129,3 +129,56 @@ html.dark .nav-btn:hover img.nav-btn-img[src$=".svg"] {
     height: 100% !important;
     object-fit: contain;
 }
+
+.iconfont::before{
+    vertical-align: 0.25em;
+}
+
+#random-banner #random-hover i::before{
+    vertical-align: 0;
+}
+
+/*右键菜单*/
+.right-menu .menu-content .all-menu .btn{
+    padding: 0 12px !important;
+}
+
+.right-menu .menu-content .all-menu{
+    margin-top: 4px !important;
+}
+
+.right-menu .menu-content .all-menu.general{
+    padding-top: 4px !important;
+}
+
+.right-menu .menu-content .tools{
+    padding: 0 4px 4px !important;
+}
+
+.right-menu .menu-content .all-menu.player{
+    padding-top: 8px !important;
+}
+
+.right-menu .menu-content .player .volume,
+.right-menu .menu-content .player .control{
+    margin-top: 0 !important;
+}
+
+.right-menu .menu-content .player .control .btn{
+    padding: 0 !important;
+}
+
+.right-menu .menu-content .player .control .btn .iconfont::before {
+    display: block;
+    height: 26px;
+    transform: translateY(-9px);
+}
+
+.right-menu .menu-content{
+    padding: 4px !important;
+}
+
+/*顶栏*/
+.main-header .nav-all .nav-center .site-menu .menu-item .link-child .link-child-btn{
+    padding: 0 8px !important;
+}
